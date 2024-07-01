@@ -1,0 +1,49 @@
+
+#kontainer {
+    height: 100%;
+    padding: 0;
+    background-color: black;
+}
+#navigasi {
+    padding-left: 0;
+    padding-right: 0;
+    background-color: black;
+}
+
+#navigasi .nav-item:last-child {
+    margin-right: 1em;
+}
+#containercarousel {
+    padding: 0;
+}
+#kontainerlogo {
+    height: 100%;
+}
+
+#collogo img {
+    height: 100%;
+}
+#collogo {
+    display: flex;
+    justify-content: center;
+    height: 15em;
+}
+
+#colcards {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 2em;
+    padding: 0;
+}
+#colcards .card {
+    background-color: black;
+    color: white;
+}
+#colcards .card {
+    border-style: solid;
+    border-color: white;
+}
+#paragrafjustify {
+    text-align: justify;
+}
